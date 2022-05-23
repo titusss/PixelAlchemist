@@ -1,6 +1,8 @@
 # 🎛️🎚️ Pixel Alchemist: Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 
-Open the interactive notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/titusss/PixelAlchemist/blob/main/PixelAlchemist.ipynb)
+Start interactive notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/titusss/PixelAlchemist/blob/main/PixelAlchemist.ipynb)
+
+Edit StyleGAN-generated images in realtime with custom prompts and multiple parametric controls. Based on https://arxiv.org/abs/2103.17249
 
 ### FFHQ
 
@@ -36,4 +38,5 @@ Refer to the StyleCLIP repository, [here](https://github.com/orpatashnik/StyleCL
 
 ## References
 This is a multi-parameter interface for StyleCLIP:
+
 Patashnik, Or, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, and Dani Lischinski. 2021. “Styleclip: Text-Driven Manipulation of Stylegan Imagery.” In Proceedings of the IEEE/CVF International Conference on Computer Vision, 2085–94.
