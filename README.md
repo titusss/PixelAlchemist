@@ -36,6 +36,4 @@ Refer to the StyleCLIP repository, [here](https://github.com/orpatashnik/StyleCL
 
 ## References
 This is a multi-parameter interface for StyleCLIP:
-"StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
-Or Patashnik, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, Dani Lischinski
-https://arxiv.org/abs/2103.17249
+Patashnik, Or, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, and Dani Lischinski. 2021. “Styleclip: Text-Driven Manipulation of Stylegan Imagery.” In Proceedings of the IEEE/CVF International Conference on Computer Vision, 2085–94.
