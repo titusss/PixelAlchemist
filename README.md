@@ -18,6 +18,8 @@ Edit StyleGAN-generated images in realtime with custom prompts and multiple para
 
 
 ## Setup
+You need a (free) ngrok authtoken for this notebook: https://dashboard.ngrok.com/get-started/your-authtoken
+
 Open the Google Colab Notebook, make sure your runtime has a GPU, run all cells, and open the web interface from the last cell. If you run the notebook for the first time, the GUI will ask you to register for a ngrok account to get an [authoken](https://dashboard.ngrok.com/get-started/your-authtoken) that you have to paste in the corresponding cell.
 
 ## Usage
