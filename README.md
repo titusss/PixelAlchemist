@@ -39,6 +39,8 @@ Refer to the StyleCLIP repository, [here](https://github.com/orpatashnik/StyleCL
 
 
 ## References
-This is a multi-parameter interface for StyleCLIP:
-
+StyleCLIP:
 Patashnik, Or, Zongze Wu, Eli Shechtman, Daniel Cohen-Or, and Dani Lischinski. 2021. “Styleclip: Text-Driven Manipulation of Stylegan Imagery.” In Proceedings of the IEEE/CVF International Conference on Computer Vision, 2085–94.
+
+Posters dataset:
+The images used for the graphic design dataset are courtesy of: typo/graphic posters, André Felipe Menezes, www.typo-graphicposters.com
